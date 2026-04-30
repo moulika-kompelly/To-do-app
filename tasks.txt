@@ -1,0 +1,5 @@
+complete project
+bulid django project
+implementation
+learn git hub
+fix bugs in code
